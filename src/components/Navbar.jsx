@@ -5,7 +5,7 @@ export default function Navbar() {
           <div className="bg-gray-900 text-white px-8 py-4 flex justify-between items-center shadow-lg">
 
                <h1 className="text-xl font-bold tracking-wide">
-                    ⚡ Polaris Meter Dashboard
+                    ⚡ Meter Dashboard
                </h1>
 
                <div className="flex gap-6 text-sm font-medium">
