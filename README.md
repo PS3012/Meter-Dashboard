@@ -138,8 +138,8 @@ public/metering_power_data.csv
 ### 1️⃣ Clone Repository
 
 ```
-git clone <your-repo-url>
-cd polaris-dashboard
+git clone https://github.com/PS3012/Meter-Dashboard.git
+cd Meter-Dashboard
 ```
 
 ### 2️⃣ Install Dependencies
@@ -230,7 +230,7 @@ This project was implemented strictly using:
 ## 👨‍💻 Author
 
 Piyush Sahu
-Frontend Developer Candidate
+Frontend Developer
 
 ---
 
